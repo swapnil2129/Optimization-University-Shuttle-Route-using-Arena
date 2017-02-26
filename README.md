@@ -1,2 +1,2 @@
 # Optimization-University-Shuttle-Route-using-Arena
-Optimization and Simulation study done using Arena for Shuttle service of University of Cincinnati
+University of Cincinnati shuttle route fleet optimization suggested by simulating route on ARENA using current student stop locations, student ride times, maximum loads to increase the efficiency of student transportation
